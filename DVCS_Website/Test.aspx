@@ -6,7 +6,7 @@
 <head runat="server">
     <title></title>
 </head>
-<body>
+<body style="background-color:lightblue;">
     <form id="form1" runat="server">
     <div>
     <h1>Hello</h1>
